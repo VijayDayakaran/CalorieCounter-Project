@@ -107,7 +107,7 @@ fieldset {
 }
 
 #add-entry {
-  margin-top: 0.5rem; /* 👈 Adds space above the Add Entry button */
+  margin-top: 0.5rem;
 }
 
 button {
